@@ -41,15 +41,5 @@
        "type": "block",
        "tag": "block"
      }
-  ],
-   "route": {
-     "rules": [
-       {
-       "network": [
-        "udp"
-       ],
-       "outbound": "block"
-     }
-   ]
-  }
+  ]
 }
